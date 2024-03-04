@@ -178,24 +178,9 @@ const experiences = {
   heading: "Experiences",
   data: [
     {
-      role: "Summer Analyst",
-      companylogo: require("../assets/img/citi.png"),
-      date: "June 2023 – Present",
-    },
-    {
-      role: "Techcomm Tools Developer Co-op",
-      companylogo: require("../assets/img/nokia.png"),
-      date: "May 2022 – May 2023",
-    },
-    {
-      role: "Technical Lead - OwlMart (coming soon!)",
-      companylogo: require("../assets/img/riceapps.png"),
-      date: "May 2023 - Present",
-    },
-    {
-      role: "Team Developer - carpool.riceapps.org",
-      companylogo: require("../assets/img/riceapps.png"),
-      date: "Sept 2021 - Sept 2022",
+      role: "Software Engineer Intern Analyst",
+      companylogo: require("../assets/img/verisk.png"),
+      date: "June 2022 – Present",
     },
   ],
 };
