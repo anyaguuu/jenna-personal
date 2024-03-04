@@ -6,18 +6,18 @@ const navBar = {
 // Main Body SECTION
 const mainBody = {
   gradientColors: "#4484ce, #1ad7c0, #ff9b11, #9b59b6, #ff7f7f, #ecf0f1", // TODO: i think just one color lol (pink or blue or orange)
-  firstName: "Anya",
+  firstName: "Jenna",
   middleName: "",
   lastName: "Gu",
-  message: "TechSis in Texas 👩🏻‍💻 ",
+  message: "Coding the Future 👩🏻‍💻 ",
   icons: [
     {
       image: "fa-github",
-      url: "https://github.com/anyaguuu",
+      url: "https://github.com/jennaguu",
     },
     {
       image: "fa-linkedin",
-      url: "https://www.linkedin.com/in/anyagu/",
+      url: "https://www.linkedin.com/in/jennaguu/",
     },
     {
       image: "fa-youtube",
@@ -49,7 +49,7 @@ const about = {
 const repos = {
   show: true,
   heading: "Passion Projects ⭐️",
-  gitHubUsername: "anyaguuu",
+  gitHubUsername: "jennaguu",
   reposLength: 5, // TODO: change this
   specificRepos: ["24", "pomodoro"],
 };
@@ -170,7 +170,7 @@ const getInTouch = {
   show: true,
   heading: "I'd love to get in touch!",
   message: "Email:",
-  email: "anya.gu@ymail.com",
+  email: "jenna.gu@ymail.com",
 };
 
 const experiences = {
