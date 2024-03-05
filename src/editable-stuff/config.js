@@ -60,24 +60,11 @@ const leadership = {
   heading: "Extracurriculars :)",
   message: (
     <p>
-      🎉 I am the proud founder & President of the Rice University Ice Skating
-      Club! ⛸️ Since its inception in 2021, our club has been making the holiday
-      season extra special at Rice by hosting two popular Christmas events that
-      have quickly become a cherished tradition among students. Check out the
-      excitement and joy of our Christmas events{" "}
+      🎉 Whatever you want to say here!!! Like about ice skating and TAing and
+      everything{" "}
       <a href="https://www.youtube.com/watch?v=EWsLKGUdUhk&t=1s&ab_channel=RiceUniversity">
         here
       </a>
-      . You can also explore the President's holiday card featuring the club{" "}
-      <a href="https://www.youtube.com/watch?v=3LPQBcuSOSQ&ab_channel=RiceUniversity">
-        here
-      </a>
-      ! Beyond spreading holiday cheer, our club is dedicated to promoting the
-      love of ice skating. We organize ice skating clinics and offer engaging
-      lessons for students, ensuring they can have a wonderful time on the ice
-      and improve their skills. But that's not all! My passion for dance shines
-      through as I am also an active member of Rice University's BASYK dance
-      team.🎊
     </p>
   ),
   images: [
