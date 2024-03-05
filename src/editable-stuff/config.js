@@ -17,15 +17,11 @@ const mainBody = {
     },
     {
       image: "fa-linkedin",
-      url: "https://www.linkedin.com/in/jennaguu/",
+      url: "https://www.linkedin.com/in/jenna-gu-738060124/",
     },
     {
       image: "fa-youtube",
-      url: "https://www.youtube.com/watch?v=EWsLKGUdUhk&ab_channel=RiceUniversity",
-    },
-    {
-      image: "fas fa-star",
-      url: "https://24.anyagu.com",
+      url: "https://www.youtube.com/watch?v=P_jzreiSOoA&ab_channel=CornellFigureSkating",
     },
   ],
 };
