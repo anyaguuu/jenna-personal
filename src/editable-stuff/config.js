@@ -29,7 +29,7 @@ const mainBody = {
 const about = {
   show: true,
   heading: "About Me",
-  imageLink: require("../editable-stuff/anyagu.JPG"), // TODO: change
+  imageLink: require("../editable-stuff/jennagu.jpeg"), // TODO: change
   imageSize: 375,
   message:
     "Hello! I'm Jenna Gu, a junior at Cornell University studying Computer and Information Science.",
@@ -61,10 +61,7 @@ const leadership = {
   message: (
     <p>
       🎉 Whatever you want to say here!!! Like about ice skating and TAing and
-      everything{" "}
-      <a href="https://www.youtube.com/watch?v=EWsLKGUdUhk&t=1s&ab_channel=RiceUniversity">
-        here
-      </a>
+      everything <a href="https://www.google.com">here</a>
     </p>
   ),
   images: [
@@ -78,7 +75,7 @@ const leadership = {
     //   },
     // },
     {
-      img: require("../editable-stuff/competition.png"),
+      img: require("../editable-stuff/jennagu.jpeg"),
       // label: "Second slide label",
       size: {
         width: "400",
@@ -86,7 +83,7 @@ const leadership = {
       },
     },
     {
-      img: require("../editable-stuff/img1.JPG"),
+      img: require("../editable-stuff/jennagu.jpeg"),
       label: "2022 Christmas Event!", // TODO: make prettier
       size: {
         width: "400",
@@ -94,7 +91,7 @@ const leadership = {
       },
     },
     {
-      img: require("../editable-stuff/img2.jpg"),
+      img: require("../editable-stuff/jennagu.jpeg"),
       // label: "Second slide label",
       size: {
         width: "400",
